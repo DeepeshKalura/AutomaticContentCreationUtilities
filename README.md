@@ -7,7 +7,7 @@ Use my personal computer to create a project, push code to Github, and publish a
 
 
 
-#### **Issues:**
+### **Issues:**
 1. **Lost Trust from LinkedIn:**
    - *Solution:* Explore alternative platforms such as Reddit and Twitter for publishing work. Consider utilizing YouTube as an additional medium.
 
@@ -19,3 +19,8 @@ Use my personal computer to create a project, push code to Github, and publish a
 
 4. **Lack of "Proof of Work":**
    - *Solution:* Streamline manual processes to facilitate the efficient creation of "Proof of Work" for projects. Implement measures to ensure that evidence of contributions is readily available.
+
+### Resolving Idea:
+I am looking to create a utility that can capture data from my PC and convert it into a markdown file. The process should include embedding images, videos, and code snippets, and then store the file in a designated storage. I plan to use an AI system to generate optimized content for me, which I can review in my application. Once I confirm everything is correct, I can then publish the content on Medium or LinkedIn.
+
+To ensure the AI generates the appropriate content, each capture session should have a specific type that the AI can recognize. Additionally, I will need a session management system to manage the content and session types.
