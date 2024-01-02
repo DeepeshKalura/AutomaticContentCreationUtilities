@@ -1,11 +1,9 @@
 ## Automatic Content Creation Utilities
-There is the concept of "Proof of work" in which whatever we say we have a some kind of work which we have to provide a prove 
-for that i was using linkdein github and medium.
+When working in computer science, it is possible to create tangible evidence of your work, referred to as "proof of work" when done concisely by a programmer.
+Programmers who use this concept are called shining programmers.
 
 ### Flow
-1. I created the project 
-2. That project i do certain work
-this work should be documented and send in the form too linkdein, medium and github, but the this the manual process. 
+Use my personal computer to create a project, push code to Github, and publish a blog post on Medium and LinkedIn.
 
 
 ### Issue 
