@@ -2,19 +2,20 @@
 When working in computer science, it is possible to create tangible evidence of your work, referred to as "proof of work" when done concisely by a programmer.
 Programmers who use this concept are called shining programmers.
 
-### Flow
+### **Flow:**
 Use my personal computer to create a project, push code to Github, and publish a blog post on Medium and LinkedIn.
 
 
-### Issue 
 
-The process start with that i was creating a project and something intersecting action to my personal computer. Sincem I am doing my work this work
-should be used as the proof but many of my all the works is not been be converted as proof. 
+#### **Issues:**
+1. **Lost Trust from LinkedIn:**
+   - *Solution:* Explore alternative platforms such as Reddit and Twitter for publishing work. Consider utilizing YouTube as an additional medium.
 
-1. All the works that i do in my pc has not been converted to the proof 
+2. **Medium vs. Personal Website:**
+   - *Solution:* Develop a personal website to serve as a comprehensive portfolio. Implement an event system on the website that automatically updates on Medium or other relevant platforms.
 
+3. **GitHub Repository Management:**
+   - *Solution:* Create a personalized repository management system to enhance organization and filtering of repositories, mitigating the impact of irrelevant or low-quality repositories.
 
-### Resolving Idea
-I am thinking to create a cli utilites that will have cli seesion has my input and get a .md file as output in my storage with the session name 
-
-
+4. **Lack of "Proof of Work":**
+   - *Solution:* Streamline manual processes to facilitate the efficient creation of "Proof of Work" for projects. Implement measures to ensure that evidence of contributions is readily available.
